@@ -1,6 +1,6 @@
 {
     "name": "validate-keys",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Validates an object´s keys against a set of keys",
     "keywords": [
         "object",
